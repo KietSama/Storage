@@ -1,6 +1,8 @@
 # Ignore everything
 /*
 /*/
+/nodejs-server/.idea/
 
 # Inverse ignore some stuff
 !.gitignore
+!/nodejs-server/

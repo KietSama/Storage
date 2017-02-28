@@ -1,0 +1,7 @@
+{
+    "httpPort" : 3000,
+    "wsPort" : 8001,
+    "centerIP" : "ws://127.0.0.1",
+    "key": "B1C047BD-8FAA-420b-B941-5C65C32117B8",
+    "checktime" : 10000
+}
